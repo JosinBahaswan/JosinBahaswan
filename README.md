@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Josin Bahaswan](img\github-header-banner)
 <!--
 **JosinBahaswan/JosinBahaswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
