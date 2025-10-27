@@ -17,6 +17,17 @@
 
 ##### My Github Stats
 [![Josin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosinBahaswan&show_icons=true&theme=radical)](https://github.com/JosinBahaswan/github-readme-stats)
+
+###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/josinbahaswan/josinbahaswan/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **JosinBahaswan/JosinBahaswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
